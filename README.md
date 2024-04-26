@@ -5,14 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=temirlan1212" alt="temirlan1212" /></a> </p>
 
-- 🌱 I’m currently learning **nestjs, mongodb**
-
-- 💬 Ask me about **react, vue, angular**
-
-- 📫 How to reach me **ltemirlan2003@gmail.com**
-
-- 📄 Know about my experiences [https://colossal-beat-93a.notion.site/60e1daa001fb4d93be806f7d01794b5e?pvs=4](https://colossal-beat-93a.notion.site/60e1daa001fb4d93be806f7d01794b5e?pvs=4)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/timakd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timakd" height="30" width="40" /></a>
