@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Temirlan</h1>
-<h3 align="center">A passionate frontend developer from Kyrgyzstan</h3>
+<div id="header" align="center">
+
+ <img src="https://github.com/warioddly/warioddly/blob/main/header_.png" alt="tima gitgub header image"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23001020&center=true&vCenter=true&size=26&width=600&lines=Hi+there+👋,+I+am+TEMIRLAN;+Welcome+to+My+Profile!;Always+learning+new+things+;)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23001020&center=true&vCenter=true&size=26&width=750&lines=A+passionate+frontend+developer+from+Kyrgyzstan;+I+like+to+improve+the+quality+of+my+code;+I+also+enjoy+learning+new+things;+And+exploring+new+technology+stacks;)](https://git.io/typing-svg)
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temirlan1212&label=Profile%20views&color=0e75b6&style=flat" alt="temirlan1212" /> </p>
 
